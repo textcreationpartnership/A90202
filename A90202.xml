@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Politicall reflections upon the government of the Turks· Nicolas Machiavel. The King of Sweden's descent into Germany. The conspiracy of Piso and Vindex against Nero. The greatness and corruption of the court of Rome. The election of Pope Leo the XI. The defection from the Church of Rome. Martin Luther vindicated. / By the author of the late Advice to a son.</title>
+            <author>Osborne, Francis, 1593-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90202</idno>
+            <idno type="STC">Wing O519</idno>
+            <idno type="STC">Thomason E1631_1</idno>
+            <idno type="STC">Thomason E1631_2</idno>
+            <idno type="STC">ESTC R203036</idno>
+            <idno type="EEBO-CITATION">99863133</idno>
+            <idno type="PROQUEST">99863133</idno>
+            <idno type="VID">170178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170178)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 205:E1631[1] or 205:E1631[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Politicall reflections upon the government of the Turks· Nicolas Machiavel. The King of Sweden's descent into Germany. The conspiracy of Piso and Vindex against Nero. The greatness and corruption of the court of Rome. The election of Pope Leo the XI. The defection from the Church of Rome. Martin Luther vindicated. / By the author of the late Advice to a son.</title>
+                  <author>Osborne, Francis, 1593-1659.</author>
+               </titleStmt>
+               <extent>[12], 228 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Richard Royston, and are to be sold by Thomas Robinson book-seller in Oxford.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The author of the late Advice to a son = Francis Osborne.</note>
+                  <note>"The Turkish policy: .. printed by John Grismond", "A discourse upon Nicholas Machiavell", "Observations upon the King of Sweden's descent into Germanie", "A discourse upon Piso &amp; Vindex, vvho both conspired the death of Nero", "A discourse upon the greatnesse and corruption of the court of Rome", "A discourse upon the election of Pope Leo the XIth", "Politicall occasions of the defection from the Church of Rome", and "A discourse in vindication of Martin Luther" each have separate dated title page; register and pagination are continuous.</note>
+                  <note>Annotation on Thomason copy: "17. June.".</note>
+                  <note>"Discourse in vindication of Martin Luther" identified as E.1631[2] on film.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leo --  XI, --  Pope, 1535-1605.</term>
+               <term>Piso, Gaius Calpurnius, d. 65.</term>
+               <term>Vindex, Gaius Julius, ca. 25-68.</term>
+               <term>Machiavelli, Niccolò, 1469-1527.</term>
+               <term>Gustaf, --  King of Sweden, 1594-1632.</term>
+               <term>Nero, --  Emperor of Rome, 37-68.</term>
+               <term>Luther, Martin, 1483-1546.</term>
+               <term>Turkey --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170178:1" rendition="simple:additions"/>
+            <p>A DISCOURSE IN VINDICATION OF <hi>Martin Luther.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170178:2" rendition="simple:additions"/>
+            <pb facs="tcp:170178:3"/>
+            <pb n="219" facs="tcp:170178:3"/>
+            <head>A DISCOURSE IN VINDICATION OF <hi>Martin Luther.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>E may be ſuſpected of <hi>Hypocriſie,</hi> if not <hi>Atheiſme,</hi> that too ſuddenly leapes out of one Opinion into another; It being impoſſible for meer fleſh and blood, to pull up all at once a <hi>Religion</hi> rooted by Cuſtome and Education in the Un<g ref="char:EOLhyphen"/>derſtanding; which muſt be convin<g ref="char:EOLhyphen"/>ced, before it can let in another with any cordial welcome. I ſpeak not of the antient and extraordinary Callings
+<pb n="220" facs="tcp:170178:4"/>of God, but thoſe experimented in our times; in which over much haſt doth often-times bewray Deceit; As appeared in the Biſhop of <hi>Spalatto,</hi> who, in my dayes, left <hi>Italy</hi> for fear of <hi>Paul the fift,</hi> his enemy, and recon<g ref="char:EOLhyphen"/>cil'd himſelf to the <hi>Church of England;</hi> but the old <hi>Pope</hi> being dead, and his <hi>Kinſman</hi> in the <hi>Chaire,</hi> he reſumes his former Errors, and goes to <hi>Rome,</hi> in hope of Preferment, where, contrary to promiſe, he dies miſerably. When Falſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od is fallen-out-with, for any other reſpect, than Love of Truth, it inclines to Atheiſm, and is ſo far from mending the Condition of the Con<g ref="char:EOLhyphen"/>vert, that it renders it worſe.</p>
+            <p>None ever ſhewed greater ſignes of Gods Spirit, than <hi>Luther</hi> did; who obſerved ſuch <hi>Gradations,</hi> as it may appear he found fault with no<g ref="char:EOLhyphen"/>thing, he was not firſt led to by the dictates of Conſcience: Falling firſt upon the abuſe of <hi>Indulgences,</hi> too apparent an Impiety, to paſs by ſo acute a Judgement undiſcovered; From this he aſcended to higher Con<g ref="char:EOLhyphen"/>templations, which afforded him the
+<pb n="221" facs="tcp:170178:4"/>opportunity to take notice of remoter and deeper Errors His <hi>Wit</hi> and <hi>Lear<g ref="char:EOLhyphen"/>ning</hi> having that vaſt advantage over the ſtupid Ignoranre of thoſe times, that he bare down all before him, without any other <hi>Oppoſition,</hi> than the contrary Faction was able to raiſe out of power; much weakened by the de<g ref="char:EOLhyphen"/>ſire all <hi>Princes</hi> had, to ſet limits to the <hi>Pope</hi>'s daily <hi>
+                  <g ref="char:V">Ʋ</g>ſurpations.</hi> And as for the <hi>Books,</hi> then writ againſt him, they did rather ſharpen, than blunt the de<g ref="char:EOLhyphen"/>ſire of Change: For the <hi>Friars</hi> had ſo l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng enjoyed a free current of their Doctrine, without interruption, that they were more intent on the reaping of ſuch Fruit, as grew from the Errors ſown by their Predeceſſors, than upon Arguments to deſend them. So as if Princes, that were weary of the Yoak of <hi>Rome,</hi> had wanted the guidance of <hi>Luther,</hi> it is not eaſie to ſay, whither they might have wandered. And though <hi>Charles the fifth,</hi> then <hi>Empe<g ref="char:EOLhyphen"/>rour,</hi> to keep his Subjects in obedience, did ſeem to diſcountenance the <hi>Schiſm</hi> (as they call'd it) yet he was content to ſhut up the <hi>Pope</hi> in the Caſtle of S<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>An<g ref="char:EOLhyphen"/>gelo.</hi>
+               <pb n="222" facs="tcp:170178:5"/>Which proves his ſmall affecti<g ref="char:EOLhyphen"/>on, and the truth of this <hi>Tenet,</hi> That if ever <hi>Chriſtendome</hi> falls under one <hi>Monarch,</hi> or turns into <hi>popular States,</hi> the power of the <hi>Pope</hi> will be loſt, or confined to <hi>Rome;</hi> being at this day onely kept up, like a Shittle cock, by the bandying of Princes.</p>
+            <p>'Tis <hi>objected</hi> againſt <hi>Luther,</hi> That <hi>he was too paſſionate,</hi> uſing <hi>irreverent speeches</hi> toward ſome in Authority: Yet ſo much of this fault, as <hi>Zeale</hi> leaves unexcuſed, may be imputed to his <hi>Education:</hi> All can be ſaid, is, He was but a <hi>Man,</hi> and ſubject to com<g ref="char:EOLhyphen"/>mon Infirmities; And becauſe his enemies do ſo often object this, it is ſtrongly to be preſumed, his worſt fault. I could have wiſh'd, he had not <hi>married a Nun:</hi> but I believe he did it to ſhew the People, The Quarrell was irreconcilable, as <hi>Abſalom</hi> projected, when he polluted his Fathers bed: And in this ſenſe, the benefit takes away much of the blame; which lay not in the <hi>unlawfulneſſe,</hi> but the <hi>inex<g ref="char:EOLhyphen"/>pediency</hi> of the fact. And to ſhew, God did not curſe his <hi>Match</hi> (though he
+<pb n="223" facs="tcp:170178:5"/>might participate of the fate of other <hi>learned men,</hi> who ſeldom finde their <hi>abilities,</hi> repreſented in their <hi>Iſſue;</hi> yet) he left <hi>three</hi> ſuch <hi>Sons,</hi> as did not give his enemies occaſion to upbraid his memory with them.</p>
+            <p>For the <hi>Reall Preſence,</hi> maintained by him in the <hi>Sacrament,</hi> it doth not ſo much condemn his <hi>Judgement</hi> in this, as it juſtifies his <hi>Integrity</hi> in all the reſt: He being as reſolute to vin<g ref="char:EOLhyphen"/>dicate what he thought true, againſt the perſwaſions of his Friends, as he was againſt the threats and promiſes of his Enemies: For if any by-reſpect could have warped him, it would have been a deſire to appeaſe the hot Di<g ref="char:EOLhyphen"/>ſpute, the retention of this error raiſed in his Own Party, wholly of his judge<g ref="char:EOLhyphen"/>ment but in this particular, in which <hi>Zwinglius,</hi> and the <hi>Helvetian Church</hi> did oppoſe him. And if this be not enough to waſh him clean from the imputation of Self-ends and Cove<g ref="char:EOLhyphen"/>touſneſs, the Proverb uſed in <hi>Germany</hi> may, That <hi>Poore Luther made many rich.</hi>
+            </p>
+            <p>As he was <hi>protected</hi> from a number
+<pb n="224" facs="tcp:170178:6"/>of <hi>apparent miſchiefs,</hi> ſo the ſame hand freed him from many <hi>hidden,</hi> in reſpect of the eyes of the world; it being im<g ref="char:EOLhyphen"/>poſſible, that he, who had gall'd ſo many <hi>Grandees,</hi> ſhould not have Re<g ref="char:EOLhyphen"/>venge laid in wait for him, in every corner: Experience proving, that <hi>Kings</hi> themſelves can ſcarce whiſper againſt the <hi>Court of Rome,</hi> but the <hi>Knife</hi> is ready to give them a finall Anſwer. His <hi>Death</hi> was with as little Moleſtation, as his <hi>Life</hi> was full: For being call'd to the County of <hi>Manſ<g ref="char:EOLhyphen"/>field,</hi> the place of his Birth, to determin a Caſe in Controverſy between two <hi>Princes</hi> of that <hi>Family,</hi> he <hi>died</hi> there in the ſixtyeth year of his Age.</p>
+            <p>Had the <hi>Apoſtles,</hi> nay our <hi>Saviour</hi> himſelf been alive, and maintained what <hi>Luther</hi> did, they had been perſe<g ref="char:EOLhyphen"/>cuted by the <hi>Clergie:</hi> Therefore the <hi>Crucifying of Christ</hi> is no prodigy in Nature, but daily practis'd among men: For he that can find the heart to ſtigmatize and whip his Brother, for an <hi>Errour meerely in Judgement,</hi> would never have ſpared <hi>Peter</hi> or <hi>Paul,</hi> coming with no more viſible
+<pb n="225" facs="tcp:170178:6"/>Authority than they had. But this is not the way to ſuppreſs an <hi>Hereſie,</hi> ſince moſt are jealous of that opinion, which uſeth the <hi>Sword</hi> for her <hi>De<g ref="char:EOLhyphen"/>fence: Truth</hi> having been long ſince determined to be moſt ſtrong: And where Oppreſſion is, there, for the moſt part, ſhe is ſuppoſed to be. This ſhews as little Diſcretion as Cha<g ref="char:EOLhyphen"/>rity in ſuch as <hi>perſecute</hi> thoſe, that may be in the Right; or, if not, ſhall by this means, be kept the longer in the Wrong. If a Horſe ſtarts, the more he is beaten, the harder he is kept in the way; but let him ſtand, and have leiſure to conſider what he blanched at; and he will perceive it is a Block, &amp; ſo go on. Yet it is neither cruelty nor imprudence, to reſtraine ſuch furious Spirits (as they do Dogs) that will bawl and fly at all they do not know: But I ſhould be utterly againſt <hi>burning of their Books in publick,</hi> if they have once gained the light; which onely addes to their price, and ſaves them a labour; becauſe, if the State did not put them in credit, by their notice, they would perhaps, after a while, for
+<pb n="226" facs="tcp:170178:7"/>ſhame, burn them themſelves. The <hi>Whip</hi> reforms, not ſo much as him that endures it; but is taken as a tri<g ref="char:EOLhyphen"/>umph by the Faction, increaſing their animoſity, if not their number; So that in effect it proves a puniſhment to none but the honeſt and tender<g ref="char:EOLhyphen"/>hearted of the people, who cannot chooſe but be ſcandalized, to ſee the Image of God defaced, by <hi>cutting Eares</hi> and <hi>ſlitting Noſes,</hi> &amp;c. And this raiſeth a ſtrong ſuſpition, that the Hand of Juſtice would not lie ſo heavy onely on the preciſer ſide, but that ſomething inclines it that may at laſt turn to the ſubverſion of the moſt mo<g ref="char:EOLhyphen"/>derate part.</p>
+            <p>The <hi>Dutch,</hi> though they <hi>tolerate all Religions</hi> and Tenents, yet none in<g ref="char:EOLhyphen"/>creaſed to their prejudice, till they ſtrove to ſuppreſs the <hi>Arminians,</hi> who are in taſt as like the <hi>Papiſts,</hi> as Scalli<g ref="char:EOLhyphen"/>ons are to Onions; all the difference is, that the latter is the ſtronger: Yet ſince they have let them alone, this O<g ref="char:EOLhyphen"/>pinion is obſerved to be leſſe-nume<g ref="char:EOLhyphen"/>rouſly attended.</p>
+            <p>Had the <hi>Pope</hi> ſeaſonably reformed
+<pb n="227" facs="tcp:170178:7"/>the Error <hi>Luther</hi> diſcovered ſo appa<g ref="char:EOLhyphen"/>rently, in the publication of <hi>Indulgen<g ref="char:EOLhyphen"/>ces,</hi> and rewarded him with a <hi>Biſhop<g ref="char:EOLhyphen"/>rick,</hi> for his <hi>Learning</hi> and <hi>Zeale,</hi> let him afterwards have ſaid what he pleaſed, it would have been looked upon by the people as of no credit: who like nothing ſo well, as what go<g ref="char:EOLhyphen"/>eth croſs to the grain of Authority.</p>
+            <p>The Lord <hi>Treaſurer Cecil,</hi> having been unſufferably abuſed by <hi>Libels,</hi> ſent for the <hi>Poet,</hi> and, after he had ratled him ſoundly, began to take no<g ref="char:EOLhyphen"/>tice of the poor fellows good parts, ſaying, <hi>It might be, vexatious poverty compelled him to make uſe of falſe, though common Rumours, given out by ſuch as hated all in Authority;</hi> To eaſe which he gave him 20 pieces, promi<g ref="char:EOLhyphen"/>ſing to take the firſt opportunity to advance him. This favour (moſt con<g ref="char:EOLhyphen"/>trary to his expectation, who would willingly have given one ear to have ſaved the other) did ſo work with him, and the reſt of the <hi>Paſquillers</hi> of the time, that, till the <hi>Treaſurers</hi> death, none uſed the like Invectives. <hi>Ban<g ref="char:EOLhyphen"/>croft,</hi> Archbiſhop of <hi>Canterbury,</hi> uſed
+<pb n="228" facs="tcp:170178:8"/>the like demeanour towards ſome Gentlemen that had laid the imputa<g ref="char:EOLhyphen"/>tion of <hi>Sodomy</hi> to his Charge, &amp;c.</p>
+            <p>
+               <hi>Clemency</hi> ſeldome cauſeth repen<g ref="char:EOLhyphen"/>tance in an eſtabliſhed Kingdome, or if it proves a fault, it is eaſily mended; Whereas <hi>Cruelty</hi> can never be recal<g ref="char:EOLhyphen"/>led, raiſing a far greater Party out of a thirſt of <hi>Revenge,</hi> than ever yet could be muſtred up from the hope of <hi>Im<g ref="char:EOLhyphen"/>punity.</hi>
+            </p>
+            <p>Therefore, to conclude, ſince <hi>Lu<g ref="char:EOLhyphen"/>ther</hi> alone had the power to doe ſo much, let us not be thus ſevere againſt others, that having the zeal kindled (though perhaps at the wrong end) run madding through the world; but rather pity them, if they be in an errour; Becauſe they ſomething re<g ref="char:EOLhyphen"/>ſemble the firſt Meſſengers of Truth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
